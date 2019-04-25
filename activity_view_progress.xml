@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/graphTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Plastic Usage by Category"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+    <ImageView
+        android:id="@+id/graphImage"
+        android:layout_width="match_parent"
+        android:layout_height="229dp"
+        app:srcCompat="@drawable/graph1" />
+
+    <TextView
+        android:id="@+id/caption"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Analysis for the  week of April 12 - April 19th by Category." />
+
+    <Button
+        android:id="@+id/recommendButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="goBrowse"
+        android:text="Click here for recommended products." />
+
+</LinearLayout>

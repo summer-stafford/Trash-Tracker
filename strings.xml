@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Trash Tracker</string>
+    <string name="toothbrush">https://www.brushwithbamboo.com/shop/bamboo-toothbrush-adult/</string>
+    <string name="deodorant">https://meowmeowtweet.com/collections/deodorant/products/baking-soda-free-deodorant-stick"</string>
+    <string name="face_soap">https://meowmeowtweet.com/collections/face/products/tea-tree-eucalyptus-charcoal-bar-soap</string>
+    <string name="sunscreen">https://www.rawelementsusa.com/collections/all/products/face-body-30-tin-plastic-free</string>
+    <string name="beeswaxWrap">https://packagefreeshop.com/collections/package-free-products/products/sandwich-wrap</string>
+    <string name="straws">https://packagefreeshop.com/collections/kitchen/products/6-95-stainless-steel-straw</string>
+    <string name="wbBrush">https://packagefreeshop.com/collections/kitchen/products/bottle-brush</string>
+    <string name="produceBag">https://packagefreeshop.com/collections/kitchen/products/drawstring-produce-bag-cotton-large</string>
+    <string name="aboutZW">Zero Waste means that nothing is sent to a landfill. In other words,
+     all waste is either recycled or composted. Usually, the main thing to tackle is plastic.
+    Every piece of plastic every made still exists today, and 8 million tons of plastic enter the ocean
+    each year. Going zero waste allows one to reduce their footprint on the Earth by choosing sustainable,
+     natural items that won't end up in a landfill, or worse, the ocean. </string>
+    <string name="secondParagraph">The first step to changing our habits is becoming aware of them. By logging
+    your interactions with items in your daily life, you can gain an understanding of where most of your
+    waste is coming from. Then the real change can take place! Use the Browse section to explore products and
+    recipes for reducing your waste, and use the analysis section to get personalized recommendations.</string>
+</resources>

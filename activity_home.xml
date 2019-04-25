@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Home">
+
+    <Button
+        android:id="@+id/logInteractions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="logWaste"
+        android:text="Log Waste Interactions" />
+
+    <Button
+        android:id="@+id/viewProgress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="viewProgress"
+        android:text="View Progress" />
+
+    <Button
+        android:id="@+id/viewProducts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="browse"
+        android:text="Browse zero waste products and recipes" />
+
+    <Button
+        android:id="@+id/educate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="learn"
+        android:text="Learn about the zero waste movement" />
+</LinearLayout>
